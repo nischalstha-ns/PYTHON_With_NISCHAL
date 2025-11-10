@@ -1,1 +1,6 @@
-hello my name is nischal shresthahello my name is nischal shresthahello my name is nischal shrestha
+hello my name is nischal shresthahello my name is nischal shresthahello my name is nischal shresthastudent name:{stdN}, studnt roll: {stdR}, student class:{stdC}student name:{stdN}, studnt roll: {stdR}, student class:{stdC}student name:{stdN}, studnt roll: {stdR}, student class:{stdC}student name:{stdN}
+, studnt roll: {stdR}
+, student class:{stdC}
+student name:lkl
+, studnt roll: 54
+, student class:4
