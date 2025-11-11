@@ -15,6 +15,6 @@ for face_location in face_locations:
     cv2.rectangle(image, (left, top), (right, bottom), (0, 0, 255), 2)
 
 # Display the image with face box
-cv2.imshow("Image", cv2.cvtColor(image, cv2.COLOR_RGB2BGR))
+cv2.imshow("Image", cv2.cvtColor(image, cv2.COLOR_RGB2BGR))  
 cv2.waitKey(0)
 cv2.destroyAllWindows()
