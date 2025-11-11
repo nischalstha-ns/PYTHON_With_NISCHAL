@@ -18,4 +18,4 @@ for face_location in face_locations:
 cv2.imshow("Image", cv2.cvtColor(image, cv2.COLOR_RGB2BGR))  
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-hello
+hello my there friend
