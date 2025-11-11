@@ -13,6 +13,7 @@ def avrage(*number):
     return sum/len(number)
 c=avrage(4)
 print(c)
+
 # def nam(**nam):
 #     print(type(nam))
 #     print("hello",nam["fname"],nam["lname"],nam["midname"])
