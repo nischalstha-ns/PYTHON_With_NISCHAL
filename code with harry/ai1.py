@@ -17,5 +17,5 @@ for face_location in face_locations:
 # Display the image with face box
 cv2.imshow("Image", cv2.cvtColor(image, cv2.COLOR_RGB2BGR))  
 cv2.waitKey(0)
-cv2.destroyAllWindows()  
-  
+cv2.destroyAllWindows()
+hello
