@@ -18,4 +18,4 @@ print(c)
 #     print(type(nam))
 #     print("hello",nam["fname"],nam["lname"],nam["midname"])
 
-# nam(fname="nsiljdk",midname="kkk" ,lname="stha") 
+# nam(fname="nsiljdk",midname="kkk" ,lname="stha")
