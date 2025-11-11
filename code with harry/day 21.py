@@ -12,7 +12,7 @@ def avrage(*number):
     # print("the average is",sum/len(number))
     return sum/len(number)
 c=avrage(4)
-print(c)
+print(c) 
 
 # def nam(**nam):
 #     print(type(nam))
